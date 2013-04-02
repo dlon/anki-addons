@@ -3,7 +3,7 @@ pythoncards
 
 Disclaimer: This may be unsafe to use with shared decks and Ankiweb.
 
-An Anki plugin that allows using Python code to create cards.
+An Anki plugin that allows using Python code to create cards. Copy it to the addons directory.
 
 Usage:
 
