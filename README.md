@@ -1,0 +1,4 @@
+pythoncards
+===========
+
+An Anki plugin.
