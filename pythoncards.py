@@ -7,6 +7,7 @@
 #	! improve security (allows arbitrary execution of code)
 #	is it possible share the "scope"?
 #		for example, variables declared in one tag are not accessible in other tags without the 'global' statement
+#	limit to some templates?
 
 import re
 from cStringIO import StringIO
