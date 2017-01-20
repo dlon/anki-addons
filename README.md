@@ -1,15 +1,16 @@
-pythoncards
-===========
+# pythoncards
 
 Disclaimer: This may be unsafe to use with shared decks and Ankiweb.
 
-An Anki plugin that allows using Python code to create cards. Copy it to the addons directory.
+Anki addon that allows you to run arbitrary Python code.
 
-Usage:
+## Installation
+
+Copy pythoncards.py to the Anki/addons/ directory in your Documents or home directory.
+
+## Usage example
 
 	&&!
 	# code
 	print 'You will see this.'
 	&&
-
-Use this tag in the question and answer fields. Output to stderr and stdout will be displayed on the card.
